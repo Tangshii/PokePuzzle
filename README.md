@@ -1,5 +1,5 @@
 # PokePuzzle
-demo: https://tangshii.github.io/PokePuzzle/
+## demo: https://tangshii.github.io/PokePuzzle/
 <br/><br/>
 Web based sliding puzzle game using html, css, and javascript
 <br/><br/>
